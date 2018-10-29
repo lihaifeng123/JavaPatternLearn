@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="295.0">org.pattern.lhf.prototype.framework.Manager</node>
+    <node x="0.0" y="126.0">org.pattern.lhf.prototype.UnderlinePen</node>
+    <node x="107.0" y="0.0">org.pattern.lhf.prototype.framework.Product</node>
+    <node x="214.0" y="126.0">org.pattern.lhf.prototype.MessageBox</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="org.pattern.lhf.prototype.UnderlinePen" target="org.pattern.lhf.prototype.framework.Product">
+      <point x="0.0" y="-62.0" />
+      <point x="97.0" y="101.0" />
+      <point x="155.5" y="101.0" />
+      <point x="-48.5" y="38.0" />
+    </edge>
+    <edge source="org.pattern.lhf.prototype.MessageBox" target="org.pattern.lhf.prototype.framework.Product">
+      <point x="0.0" y="-62.0" />
+      <point x="311.0" y="101.0" />
+      <point x="252.5" y="101.0" />
+      <point x="48.5" y="38.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
